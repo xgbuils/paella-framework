@@ -1,3 +1,3 @@
 # musclets.js
-El framework del verano, el framework para hacer paellas OOP y calamar widgets
+El framework del verano, el framework para hacer Paellas Orientadas a Objetos (OOP) y calamar widgets
 

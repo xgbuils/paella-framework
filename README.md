@@ -1,5 +1,13 @@
-# musclets.js
+# Paella Framework
 El framework del verano, el framework para hacer Paellas Orientadas a Objetos (OOP) y calamar widgets
+
+Basado en ![musclets.js](assets/musclets.jpg) y ![sangriass](assets/sangriass.jpg). 
+
+¡No lo dudes! Instálalo *AHORA* y podrás usarlo en tu *Ferrari sin ruedas*:
+
+```
+npm install https://github.com/xgbuils/musclets.js
+```
 
 ## API
 
